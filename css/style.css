@@ -391,10 +391,10 @@ footer {
     background:  rgb(101, 168, 231);
     padding: 10px 15px;
     color: rgb(233, 231, 231);
-    justify-self: center;
     border-radius: 10px;
     font-size: 15px;
     width: 520px;
+    position: relative;
     box-shadow: 1px 1px 5px grey;
 }
 .right-image {
@@ -407,7 +407,7 @@ footer {
 /***cent**/
 .cent {
     text-align: center;
-    color:  rgb(20, 103, 180);
+    color:  rgb(45, 129, 240);
     margin: 20px 0px;
     font-size: 16px;
 }
@@ -417,20 +417,18 @@ footer {
     padding: 10px 0px;
 }
 .about-section-3 h2{
- color:  rgb(20, 103, 180);
+ color:  rgb(5, 70, 131);
 }
 
 .de-contents {
     display: flex;
     justify-content: space-between;
 }
-.left-side-p {
-    margin-right: 25px;
-}
+
 
 /***about-sevtion-4**/
 .about-section-4 h2 {
-    color:rgb(20, 103, 180) ;
+    color:rgb(57, 132, 202) ;
     margin: 15px 0px;
 }
 
@@ -842,7 +840,7 @@ padding-right: 30px;
 }
 
 .price-1 p {
-    color: grey;
+    color: rgb(59, 58, 58);
     font-size: 14px;
     line-break: auto;
 }
@@ -865,11 +863,11 @@ padding-right: 30px;
 
 .right-head-2,
 .left-head-2 {
-    color:rgb(20, 103, 180);
+    color:rgb(23, 20, 180);
 }
 
 .price-2 p {
-    color: grey;
+    color: rgb(20, 19, 19);
     font-size: 14px;
 }
 /*price-3*/
@@ -886,7 +884,7 @@ padding-right: 30px;
 }
 
 .price-3 p {
-    color: grey;
+    color: rgb(19, 18, 18);
     font-size: 14px;
 }
 /*price-4*/
@@ -905,7 +903,7 @@ padding-right: 30px;
 
 
 .price-4 p {
-    color: grey;
+    color: rgb(26, 25, 25);
     font-size: 14px;
 }
 /*price-5*/
@@ -924,7 +922,7 @@ padding-right: 30px;
 }
 
 .price-5 p {
-    color: grey;
+    color: rgb(24, 23, 23);
     font-size: 14px;
 }
 /*price-form*/
@@ -1039,7 +1037,7 @@ form {
     text-align: center;
     margin-bottom: 10px;
     font-weight: 600;
-    color: rgb(56, 55, 55);
+    color: black;
     font-size: small;
 }
 
@@ -1065,7 +1063,7 @@ form {
     text-align: center;
     font-size: 14px;
     margin-bottom: 5px;
-    color: grey;
+    color: black;
 }
 
 .contact-2nd-div {
@@ -1084,7 +1082,7 @@ form {
 .cont-form-head{
     padding:8px 5px;
     background-color: rgb(247, 228, 181);
-    color: grey;
+    color: black;
  
 }
 .contact-mid-section form input {
@@ -1110,7 +1108,7 @@ form {
 
 .contact-mid-page p {
     font-size: 14px;
-    color: grey;
+    color: black;
     line-height: 1.5em;
 }
 
@@ -1126,12 +1124,12 @@ form {
     margin-bottom: 50px;
     border-radius: 10px;
     padding: 15px;
-    border: 1px solid#0c71c3;
+    border: 1px solid#088bf7;
 }
 
 .cont-last-box p{
     font-size: small;
-    color: #0c71c3;
+    color: #0a86ec;
 }
 
 /* span ezeke */

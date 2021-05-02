@@ -1132,6 +1132,17 @@ padding-right: 260px;
 
 }
 
+@media  (max-width: 540px) {
+    .spin {
+        padding: 5px 10px;
+        line-height: 1.5em;
+    }
+
+    .left-side-p h2 {
+        padding: 10px;
+     }
+}
+
 
 @media(max-width:280px) {
     .blue-1,
